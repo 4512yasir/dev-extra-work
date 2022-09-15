@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    /* background-image: linear-gradient(gray, white); */
+    box-sizing: border-box;
+}
+.nav{
+    height:30rem;
+    width: 87rem;
+    background: gray;
+   
+}
+.nav .left {
+    width: 700px;
+    height: 100px;
+    float: left;
+    margin-top: 3rem;
+    margin-left: 3rem;
+}
+.nav .right {
+    float: right;
+    /* justify-content: top; */
+    align-content: right;
+    width: 700px;
+    height: 100px;
+ 
+}
+.nav .right img{
+    width: 300px;
+    height: 250px;
+}
+.body h1{
+    text-transform: uppercase;
+    font-size: 1.9rem;
+    margin-left: 500px;
+}
+.body p {
+    margin-left: 400px;
+    font-size: 1.4rem;
+}
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 0.9px;
+    margin-left: 80px;
+  }
+  .button {
+   margin-left: 550px;
+  }
+  .center {
+    height:30rem;
+    width: 87rem;
+    background: gainsboro;
+
+  }
+.center h1 {
+    width: 700px;
+    height: 100px;
+    float: left;
+    margin-top: 3rem;
+    margin-left: 3rem;
+}
+.center p {
+    width: 700px;
+    height: 100px;
+    float: left;
+    margin-top: 3rem;
+    margin-left: 3rem;
+}
+.img {
+    float: right;
+    justify-content: center;
+    align-content: right;
+    width: 700px;
+    height: 100px;
+    margin-bottom: 150px;
+}
+.img img {
+    height: 130px;
+    width: 120px;
+}
+.foot {
+display: flex;
+
+}
+.shapes {
+    background-color: gray;
+    height: 5rem;
+    width: 9rem;
+    margin-left: 140px;
+}
+.shps {
+    background-color: gray;
+    height: 5rem;
+    width: 9rem;
+    margin-left: 150px;
+}
+.shaes {
+    background-color: gray;
+    height: 5rem;
+    width: 9rem;
+    margin-left: 160px;   
+}
+.shpes {
+    background-color: gray;
+    height: 5rem;
+    width: 9rem;
+    margin-left: 180px; 
+}
+.foo{
+    display: flex;
+    padding: 5px;
+    }
+.shaps {
+    background-color: gray;
+    height: 5rem;
+    width: 9rem;
+    margin-left: 140px;  
+}
+.shape {
+    background-color: gray;
+    height: 5rem;
+    width: 9rem;
+    margin-left: 150px;
+}
+.hapes {
+    background-color: gray;
+    height: 5rem;
+    width: 9rem;
+    margin-left: 160px; 
+}
+.sapes {
+    background-color: gray;
+    height: 5rem;
+    width: 9rem;
+    margin-left: 180px; 
+}
+.words {
+/* align-content: center; */
+margin-left: 230px;
+}
+.words h1{
+    margin-left: 250px;
+font-style: bold;
+}
+.word p {
+margin-left: 250px;
+font-size: 1.23rem;
+}
